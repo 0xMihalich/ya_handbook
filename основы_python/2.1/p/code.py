@@ -1,0 +1,5 @@
+A = int(input())
+B = int(input())
+C = int(input())
+result = abs((A - B) / C)
+print(f"{result:.2f}")
